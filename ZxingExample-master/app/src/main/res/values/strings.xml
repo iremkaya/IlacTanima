@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">iLAÇ TANIMA</string>
+    <string name="title_activity_ekleme">ekleme</string>
+    <string name="title_activity_listele">listele</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_gster">GSTER</string>
+    <string name="title_activity_update">update</string>
+</resources>
